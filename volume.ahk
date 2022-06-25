@@ -1,3 +1,3 @@
-Alt & -::Send, Volume_Down 5
-Alt & =::Send, Volume_Up 5
-Alt & 0::Send, Volume_Mute
+Alt & -:: SoundSet, -5
+Alt & =:: SoundSet +5
+Alt & 0:: Volume_Mute
